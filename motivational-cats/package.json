@@ -28,6 +28,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://themattbarnfield.github.io/motivational-cats/",
   "browserslist": {
     "production": [
       ">0.2%",
