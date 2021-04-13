@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/motivational-cats/static/css/main.04e94d58.chunk.css",
+    "main.css": "/motivational-cats/static/css/main.4005f1f3.chunk.css",
     "main.js": "/motivational-cats/static/js/main.e4585abc.chunk.js",
     "main.js.map": "/motivational-cats/static/js/main.e4585abc.chunk.js.map",
     "runtime-main.js": "/motivational-cats/static/js/runtime-main.8b53a550.js",
@@ -10,13 +10,13 @@
     "static/js/3.27f870b1.chunk.js": "/motivational-cats/static/js/3.27f870b1.chunk.js",
     "static/js/3.27f870b1.chunk.js.map": "/motivational-cats/static/js/3.27f870b1.chunk.js.map",
     "index.html": "/motivational-cats/index.html",
-    "static/css/main.04e94d58.chunk.css.map": "/motivational-cats/static/css/main.04e94d58.chunk.css.map",
+    "static/css/main.4005f1f3.chunk.css.map": "/motivational-cats/static/css/main.4005f1f3.chunk.css.map",
     "static/js/2.2faee0a0.chunk.js.LICENSE.txt": "/motivational-cats/static/js/2.2faee0a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8b53a550.js",
     "static/js/2.2faee0a0.chunk.js",
-    "static/css/main.04e94d58.chunk.css",
+    "static/css/main.4005f1f3.chunk.css",
     "static/js/main.e4585abc.chunk.js"
   ]
 }
