@@ -8,7 +8,16 @@ const messages: string[] = [
     "It's not all shit",
     "Go you!",
     "#Slay",
-    "Yaaaaaas Queen"
+    "Yaaaaaas Queen",
+    "Life is not suffering", 
+    "Tomorrow will come",
+    "You are a whole human and are allowed feelings",
+    "You have a 100% success rate at making through the day",
+    "You are so awesome we fear you",
+    "You are the best you",
+    "Give yourself a break",
+    "Trying your best is what counts",
+    "You bring joy to the world"
 ]
 
 export const getRandomMessage = (): string => {
