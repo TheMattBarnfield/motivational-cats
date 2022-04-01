@@ -12,7 +12,7 @@ const messages: string[] = [
     "Life is not suffering", 
     "Tomorrow will come",
     "You are a whole human and are allowed feelings",
-    "You have a 100% success rate at making through the day",
+    "You have a 100% success rate at making it through the day",
     "You are so awesome we fear you",
     "You are the best you",
     "Give yourself a break",
